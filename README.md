@@ -1,8 +1,10 @@
-# Hey, I'm Pedro.🌌
+## hey, i'm Pedro.
 
-<p>Software engineering student turning chaotic ideas into code. Mostly self-taught. </p>
+#### ✨️ About me
 
-## 🪐 things i feel comfortable with 
+<p>does it really matter? ♡ <br/> anyways i'm a software engineering student turning depressing ideas into code. </p>
+
+#### 🪐 things i feel comfortable with 
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -19,5 +21,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-##  🌧 social
+####  🌧 social
 <a href="https://twitter.com/pedrohegem" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+
+
+
+
