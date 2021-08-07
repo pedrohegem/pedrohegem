@@ -21,9 +21,15 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-####  🌧 social
+####  🌧 socials
+<table>
+<tr>
 <a href="https://twitter.com/pedrohegem" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-
+  </tr>
+<tr>
+<a href="https://discord.com/invite/HBuEhkZTwP" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/%3CDiscord%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)" /></a>
+</table>
+</tr>
 
 
 
