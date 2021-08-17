@@ -2,7 +2,7 @@
 
 #### ✨️ About me
 
-<p>does it really matter? ♡ <br/> anyways i'm a software engineering student turning depressing ideas into code. </p>
+<p>does it really matter? ♡ <br/> anyways i'm a software engineering student turning chaotic ideas into code. </p>
 
 #### 🪐 things i feel comfortable with 
 
