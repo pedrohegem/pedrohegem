@@ -1,7 +1,7 @@
 ## hey, i'm pedrohegem.
 
 #### ✦ About me
-<p>i'm a cybersecurity enthusiast turning chaotic ideas into code. <br>I also like programming low level stuff. </p>
+<p>i'm a delusional cybersecurity enthusiast turning chaotic ideas into code. </p>
 
 #### 🪐 things i feel comfortable with 
 
