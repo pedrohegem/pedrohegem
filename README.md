@@ -21,15 +21,3 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-####  🌧 socials
-<table>
-<tr>
-<a href="https://twitter.com/pedrohegem" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  </tr>
-<tr>
-<a href="https://discord.com/invite/HBuEhkZTwP" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
-</table>
-</tr>
-
-
-
