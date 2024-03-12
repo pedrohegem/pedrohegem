@@ -1,5 +1,5 @@
 ## hey, i'm pedrohegem.
 
 #### ✦ About me
-<p>i'm a delusional cybersecurity enthusiast turning chaotic ideas into code. </p>
+Software engineer with a master's degree in cybersecurity immersed in the world of forensics and cryptography.
 
